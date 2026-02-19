@@ -10,10 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/henrylin03/template--expressjs-prisma-postgres.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "keywords": [
+    "template",
+    "expressjs template",
+    "prisma orm template",
+    "prisma orm and postgres template",
+    "full stack web app"
+  ],
+  "author": "henrylin03",
+  "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/henrylin03/template--expressjs-prisma-postgres/issues"
   },
