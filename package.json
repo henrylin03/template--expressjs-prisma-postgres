@@ -1,0 +1,26 @@
+{
+  "name": "template--expressjs-prisma-postgres",
+  "version": "1.0.0",
+  "description": "This is a template for me to quickly spin-up a full-stack, TypeScript, web app using: - ExpressJS - Prisma ORM with PostgreSQL integration - EJS templating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrylin03/template--expressjs-prisma-postgres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/henrylin03/template--expressjs-prisma-postgres/issues"
+  },
+  "homepage": "https://github.com/henrylin03/template--expressjs-prisma-postgres#readme",
+  "devDependencies": {
+    "@types/node": "^25.3.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
